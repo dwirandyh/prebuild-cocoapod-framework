@@ -229,7 +229,7 @@ PODS:
     - BottomSheets
     - TunaikuChat
     - TunaikuCommon
-  - TunaikuDesignSystem (1.2.1)
+  - TunaikuDesignSystem (1.2.4)
   - TunaikuLMT (1.0.0):
     - TunaikuChat
     - TunaikuCommon
@@ -310,7 +310,7 @@ DEPENDENCIES:
   - TunaikuCollectionReview (from `../Tunaiku-module-internal/TunaikuCollectionReview`)
   - TunaikuCommon (from `../Tunaiku-module-internal/TunaikuCommon`)
   - TunaikuCustomerLoyalty (from `../Tunaiku-module-internal/TunaikuCustomerLoyalty`)
-  - TunaikuDesignSystem (= 1.2.1)
+  - TunaikuDesignSystem
   - TunaikuLMT (from `../Tunaiku-module-internal/TunaikuLMT`)
   - TunaikuLMT/Tests (from `../Tunaiku-module-internal/TunaikuLMT`)
   - TunaikuLogin (from `../Tunaiku-module-internal/TunaikuLogin`)
@@ -471,7 +471,7 @@ SPEC CHECKSUMS:
   TunaikuCollectionReview: deef3c63d4fb75af8ba3dfbb921f52fed2953bd9
   TunaikuCommon: c315b085fddc182836ec6e8262e3564cd47ce4c6
   TunaikuCustomerLoyalty: d49a424f75e8ae5aacb509f692a7b6ba3426c9a0
-  TunaikuDesignSystem: 7b5a3dc4e0686fe81b873e589092d25e0f3e7d9b
+  TunaikuDesignSystem: 4bb2e981d45dd3d5a39848206ed0231fda039c5c
   TunaikuLMT: c35089a4751de51b8d3c1e73996a7abeabc8e409
   TunaikuLogin: def50054919e34e9a50a50e8dbcd177e47d6d3c2
   TunaikuNavigation: 601569fa711baff9d85008f5369829451445fad3
@@ -481,6 +481,6 @@ SPEC CHECKSUMS:
   TunaikuRepayment: 0a6221b01ee45de645486244b175a37fcb7f728e
   TunaikuSettings: c04915cb12b7ea3ce63d45fba04f57797ef98779
 
-PODFILE CHECKSUM: 34546e33cde229392d105ededdfdcdc9702a1e03
+PODFILE CHECKSUM: 13e878ab12d9e2c5516c84f848ae0479e11c23bd
 
 COCOAPODS: 1.10.0
